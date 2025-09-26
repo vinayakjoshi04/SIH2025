@@ -1,103 +1,99 @@
 {
-  "url": "https://amzn.in/d/dTAL3KI",
-  "title": "Nutrabay Pure Micronised Creatine Monohydrate Powder 3000 mg/Serving – Pre/Post Workout Supplement for Muscle Gain & Recovery |33 Servings – 100g, Unflavoured | Trustified Certified | 100% Authentic",
-  "mrp": "₹229.00",
-  "quantity": "8 G",
-  "manufacturer": "Abyss Pharma Pvt. Ltd., Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
-  "origin": "al products",
+  "url": "https://www.amazon.in/Premium-Gently-Rolled-Aromatic-Leaves/dp/B00XW5HH6U/ref=sr_1_5_f3_0g_fs_mod_primary_alm?_encoding=UTF8&content-id=amzn1.sym.f11889ca-3189-4bb9-85fb-094bb950b114&dib=eyJ2IjoiMSJ9.8CzOoW07_pPPqLWBBBJy8iE_K9q4hdIAriAd-A8x_0F7I3bHFVdOUOc8giCYRM1Cx1lUg5d4HTUytkdw00p4Y7Vd23wvvEN30iEWJmhzGAL1lKRd-WhYlGuull77Sfj3UNDDej1FjGbgwlU4PhLlxRdrRwqo9bzv6Mgp33WxBJOYrXK3P_sK1w4I5HexYp8oQ7i4lO0WdkWg_PKH8VA6iVezDu6SZvDkKs0jK5mQLE3Y3NiBsSLKDWwTqqQzV7MQFMJ4fc9KV2uj6tVqUMcGGRIfNmTC2X-hQ3L6ssosxyY.oE9OWbQtPk-KnbsU8oH6rE5FxZKBMqk0UBB8lx2UJlo&dib_tag=se&pd_rd_r=9dc047d6-8596-4072-901b-dc04f1fdf2e7&pd_rd_w=dWHzT&pd_rd_wg=XYBY2&qid=1758857269&refinements=p_36%3A14000-40000&rnid=2454178031&s=grocery&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=1-5&th=1",
+  "title": "Tata Tea Gold 500 gram, Premium Assam teas with Gently Rolled Aromatic Long Leaves, Rich & Aromatic Chai, Black Tea",
+  "mrp": "₹242.00",
+  "quantity": "5 l",
+  "manufacturer": "Tata Tea, Tewari Warehousing Co. Pvt. Ltd., 20, Coal Berth Road, Kolkata-700088",
+  "origin": "‎India",
   "images": [
-    "temp\\temp2\\img1_41DID9LXi0L_SL1500.jpg",
-    "temp\\temp2\\img2_51l2vZTBOCL_SL1500.jpg",
-    "temp\\temp2\\img3_51SYNAAjt5L_SL1500.jpg",
-    "temp\\temp2\\img4_41kUeJs4fEL_SL1500.jpg",
-    "temp\\temp2\\img5_41d5A3jigqL_SL1500.jpg",
-    "temp\\temp2\\img6_41fL7-ugDNL_SL1500.jpg"
+    "temp\\temp2\\img1_41bWvNMcx_L_SL1500.jpg",
+    "temp\\temp2\\img2_41f_6JgX4vL_SL1500.jpg",
+    "temp\\temp2\\img3_41q77XzfOdL_SL1500.jpg",
+    "temp\\temp2\\img4_51L0SUzF0RL_SL1500.jpg",
+    "temp\\temp2\\img5_41nb74yiigL_SL1500.jpg",
+    "temp\\temp2\\img6_41cCITi0-lL_SL1500.jpg"
   ],
-  "Brand": "Nutrabay",
+  "Brand": "Tata",
+  "Item Form": "Loose Leaves",
   "Flavour": "Unflavoured",
-  "Primary Supplement Type": "Creatine",
-  "Net Quantity": "100.0 gram",
-  "Item Form": "Powder",
-  "Item Weight": "100 Grams",
-  "Item dimensions L x W x H": "15 x 10 x 3 Centimeters",
-  "Special Ingredients": "Creatine",
+  "Tea Variety": "Black",
+  "Net Quantity": "500.0 Grams",
   "Diet Type": "Vegetarian",
-  "Product Benefits": "Energy Management",
+  "Number of Items": "1",
+  "Package Information": "Bag",
+  "Caffeine Content": "Medium Caffeine",
+  "Item Weight": "500 Grams",
   "product_details": {
-    "Product Dimensions   15 x 10 x 3 cm; 100 g": "Product Dimensions  :",
-    "Date First Available   16 March 2022": "Date First Available  :",
-    "Manufacturer   Abyss Pharma Pvt. Ltd.": "Manufacturer  :",
-    "ASIN   B09VP6HL5J": "ASIN  :",
-    "Item model number   NB-NUT-1009-03": "Item model number  :",
-    "Country of Origin   India": "Country of Origin  :",
-    "Manufacturer   Abyss Pharma Pvt. Ltd., Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India": "Manufacturer  :",
-    "Packer   Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India": "Packer  :",
-    "Importer   Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India": "Importer  :",
-    "Item Weight   100 g": "Item Weight  :",
-    "Item Dimensions LxWxH   15 x 10 x 3 Centimeters": "Item Dimensions LxWxH  :",
-    "Net Quantity   100.0 gram": "Net Quantity  :",
-    "Generic Name   Creatine": "Generic Name  :",
-    "Best Sellers Rank #266 in Health & Personal Care (See Top 100 in Health & Personal Care)\n#4 in Creatine": "Best Sellers Rank:",
-    "Customer Reviews 4.2 \n4.2 out of 5 stars\n    7,820 ratings": "Customer Reviews:",
-    "Manufacturer": "Abyss Pharma Pvt. Ltd., Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
+    "Specialty": "Vegetarian",
+    "Weight": "500 Grams",
+    "Ingredient Type": "Vegetarian",
+    "Brand": "Tata",
+    "Region Produced In": "Asia",
+    "Storage Instructions": "Keep Dry",
+    "Form": "Loose Leaves",
+    "Caffeine Content": "Medium Caffeine",
+    "Package Information": "Bag",
+    "Manufacturer": "Tata Tea, Tewari Warehousing Co. Pvt. Ltd., 20, Coal Berth Road, Kolkata-700088",
+    "Allergen Information": "Allergen-Free",
+    "Item model number": "Invictus_EAN_IJABAFCAAAJAG",
+    "Net Quantity": "500.0 gram",
+    "Product Dimensions": "7 x 11.5 x 25 cm; 500 g",
+    "Ingredients": "Tea",
     "Country of Origin": "India",
-    "Item model number": "NB-NUT-1009-03",
-    "Product Dimensions": "15 x 10 x 3 cm; 100 g",
-    "ASIN": "B09VP6HL5J",
-    "Packer": "Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
-    "Importer": "Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
-    "Item Weight": "100 g",
-    "Item Dimensions LxWxH": "15 x 10 x 3 Centimeters",
-    "Net Quantity": "100.0 gram",
-    "Generic Name": "Creatine",
-    "Best Sellers Rank": "#266 in Health & Personal Care (See Top 100 in Health & Personal Care)\n#4 in Creatine"
+    "ASIN": "B00XW5HH6U",
+    "Customer Reviews": "4.5 \n4.5 out of 5 stars\n    4,326 ratings\n4.5 out of 5 stars",
+    "Best Sellers Rank": "#59 in Grocery & Gourmet Foods (See Top 100 in Grocery & Gourmet Foods)\n#4 in Tea",
+    "Date First Available": "19 May 2015",
+    "Packer": "Tewari Warehousing Co. Pvt. Ltd., 20, Coal Berth Road, Kolkata-700088",
+    "Item Weight": "500 g",
+    "Item Dimensions LxWxH": "7 x 11.5 x 25 Centimeters",
+    "Generic Name": "Tea"
   },
   "vision": {
     "selected": [],
     "scoring": {
-      "temp\\temp2\\img1_41DID9LXi0L_SL1500.jpg": {
+      "temp\\temp2\\img1_41bWvNMcx_L_SL1500.jpg": {
         "score": 0,
         "matched": [],
-        "text_preview": "NUTRABAY Pure CREATINE MONOHYDRATE Micronizcd eccruc FonaoUlTa Darelnaanana"
+        "text_preview": "Tata TEA Gold Rick Texe Entausble Atana (I5%long) leaves RoLleo"
       },
-      "temp\\temp2\\img2_51l2vZTBOCL_SL1500.jpg": {
+      "temp\\temp2\\img2_41f_6JgX4vL_SL1500.jpg": {
         "score": 0,
         "matched": [],
-        "text_preview": "60% Strength Increase In 10 Weeks* Basad on Scientific Research"
+        "text_preview": "IWATEA Gold Rich Taste idta gold Tvesistihle Rm7r Litwut Aic Aoma Deengnalut Im_UNSd @uuamoric u"
       },
-      "temp\\temp2\\img3_51SYNAAjt5L_SL1500.jpg": {
+      "temp\\temp2\\img3_41q77XzfOdL_SL1500.jpg": {
         "score": 0,
         "matched": [],
-        "text_preview": "We've Raised the Bar on Trust & Purityl Trustified NUTRABAY Pure HERQY CREATINE MONOHYDRATE WndisoD LABTESTING 7~ 3 uliEo Lncrontnad Kenaae SUPER For 2 8.N3ia3891`"
+        "text_preview": "KOWATA Gold Blended with (1%long leaves RoLLe? M unbe , Lnen-T4trreintt   irutulte nlanenlut Iiudbnericin 1"
       },
-      "temp\\temp2\\img4_41kUeJs4fEL_SL1500.jpg": {
+      "temp\\temp2\\img4_51L0SUzF0RL_SL1500.jpg": {
         "score": 0,
         "matched": [],
-        "text_preview": "NUTRABAY Pure Other Creatine Creatines CREATINE Parameters Purity 99.996 <90% Formula 100% Micronized Non-Micronized Absorption Fast Slow Mixability Dissolves Easily Mixability Issues Passed Blind No ..."
+        "text_preview": "IWNTEA Gold Blend of CTC & Ixongteaves Where the valleys meet the mountains, Tata Tea Gold is bomn! An exquisite tea that combines the rich fullness of the valley-grown teas with the irresistible arom..."
       },
-      "temp\\temp2\\img5_41d5A3jigqL_SL1500.jpg": {
+      "temp\\temp2\\img5_41nb74yiigL_SL1500.jpg": {
         "score": 0,
         "matched": [],
-        "text_preview": "You may receive either packaging: Nutraday Puri NUTRABAY MicRONIZED Pure CREATINE CREATINE MONOHYDRATE MONOHYDRATE 4 Both are the same & 10O% original products"
+        "text_preview": "IAWATA Gold Three Different Teas, Deliciously Distinct H Gold Gold Gold Gold Gold t 771 m untermnt#deare"
       },
-      "temp\\temp2\\img6_41fL7-ugDNL_SL1500.jpg": {
+      "temp\\temp2\\img6_41cCITi0-lL_SL1500.jpg": {
         "score": 0,
         "matched": [],
-        "text_preview": "Higher Muscle Volume in a Month\" \"Based On Scientific Research"
+        "text_preview": "1 Mh 1 Gold Lhi gmiatnunot Icountnunod Miy7a5 mm Gold"
       }
     }
   },
   "ocr": {
-    "extracted_text": "NUTRABAY \nPure \nCREATINE \nMONOHYDRATE \nMicronizcd \nNUTRABAY \nPure \nCREATINE \nMONOHYDRATE \nMicronied \nNUTRABAY \nCREATINE \nMONOHYDRATE \nNUTRABAY \nPure \nCREATINE \nMONOHYDRATE \nMicronned \n33 \n60% \nStrength Increase \nIn 10 Weeks* \nBasad on Scientific Research \n60% \nStrength Increase \nIn 10 Weeks\" \nBasad on Sciantific Research \n60% \nStrength ncrease) \n60% \nStrength Increase \nIn 10 Weeks\" \n'Basad on Scientific Research \nWe've Raised the Bar on \nTrust & Purityl \nTrustified \nNUTRABAY \nPure \nCREATINE \nMONOHYDRATE \nLABTESTING \nSUPER \nFor \nWe've Raised the Bar on \nTrust & Purityl \nTrustified \npure \nCREATINE \nMONOHYDRATE \nLAB TESTNG \n8 \nGuper  \n0 \n8n3i03891` \nWeve Raised the Bar on} \nTrustlePurityl \nTrustified \nCREATINB \nWe'vve Raised the Bar on \nTrust & Purityl \nTrustified \nPure \nCREATINE \nUNBLSED \nLAB TESTING \nRAIED  \nFor \n8 \nNUTRABAY Pure \nOther \nCreatine \nCreatines \nCREATINE \nParameters \nPurity \n99.996 \n<90% \nFormula \n100% Micronized \nNon-Micronized \nAbsorption \nFast \nSlow \nMixability \nDissolves Easily \nMixability Issues \nPassed Blind \nNo Lab \nCertification \nTesting \nTesting \nNUTRABAY Pure \nOther \nCreatine \nCreatines \nParameters \nPurity \n99.996 \n<90% \nFormula \n100% Micronized \nNon-Micronized \nAbsorption \nFast \nSlow \nMixability \nDissolves Easily \nMixability Issues \nPassed Blind \nNo Lab \nCertification \nTesting \nTesting \nNUTRABAY Pure \n[Other : \nCreatine; \nreatines' \nParameters; \nFormul \nNon Mcronizea \nBeorrtlon} \nSlow \nalves Easily \nssues \nCertification \nPassed Blind \nNoLab \n(esting \nTestlng) \nDlssol \nMbabilly! \nNUTRABAY Pure \nOther \nCreatine \nCreatines \nParameters \nPurity \n99.9% \n<90% \nFormula \n100% Micronized \nNon-Micronized \nAbsorption \nFast \nSlow \nMixability \nDissolves Easily \nMixability Issues \nPassed Blind \nNo Lab \nCertification \nTesting \nTesting \nYou may receive either packaging: \nNUTRABAY \nMicRONIZED \nPure \nCREATINE \nCREATINE \nMONOHYDRATE \nMONOHYDRATE \n4 \nBoth are the same & 10O% original products \nYou may receive either packaging: \nMUIRADAY \nMicronized \nCREATINE \nCREATINE \nMONOHYDRATE \nBoth are the same & 1OO% original products \nYou may receive either packaging: \nCREATINE \nCREATINE \nBoth are the same & 10O% original products \nYou may receive either packaging: \nNUTRADAy \nMicronized \nDure \nCREATINE \nCREATINE \nMONOHYDRATE \nBoth are the same \n10O% original products. \nHigher Muscle \nVolume \nin a Month\" \n\"Based On Scientific Research \nHigher Muscle \nVolume \nin a Month' \nHigherMuscle \nVolume \nineMonth  \nHigher Muscle \nVolume \nin a Month' \nBasad On Scieritific Research \n1",
+    "extracted_text": "TEA \nGold \nRick Texe \nleaves \nTATA TEA \ngold \n(1f%long \nleaves \nRolL \nTATA TEA \nGold \nleaves \nTATA TEA \ngold \nRich \n(I%long  \nLeaves \nROLLEO \nGold \nRich Taste \ngold \nTvesistihle \nAoma \nGold \nRich Taste \nTATA TEA \ngold \nTvesistihle \nAoma \nGold \nRich Taste \nGold , \nTvesistihle \n25 \nAoma \nTata TEA \nGgold \nRich Taste \nTaTA TEA \ngold \nTvesistihle \nAeoma \nGold \nBlended with \n(1%long \nleaves \nRoLLe? \n1 \nBlended with \n(I5%long  \nleaves \nGold \n1 \nROLLED \nBlended with \nLeaves \nRoller \nTata TEA \ngold \nBlended with \n5 \nI%long , \nLeaves \n1 \nROLLEO \nGold \nBlend of \nCTC & \nIxongteaves \nWhere the valleys meet the mountains, Tata Tea Gold is bomn! \nAn exquisite tea that combines the rich fullness of the \nvalley-grown teas with the irresistible aroma of long leaves \nfrom high grown regions \nit ]l leave you longing for morel \nfine , \nGgold \nBlend of \nCTC & \nWhere the valleys meet the mountains, Tata Tea Gold is bomnl \nAn exquisite tea that combines the rich tullness of the \nvalley-grown teas with the irresistible aroma of long leaves \nfrom high grown regions \nit ] leave you longing for morel \nfine, \nGold \nBlend of ; \ncTc \nLStongleaues \nWhere the valleys Ieet the mountains, Tata Tea Gold is bomi \nAn \nexquisite tea that combineg the rich Jullnegs of tbe \nvalley = \ntaas with tbe iresistible aroma of long leaves \ntrom high gIOwR Iegions \n#J laave you longing for morel \nfre, \ngrOwn \nTata TEA \nGold \nBlend of \nAssam CTC & \nI5longleaves \nWhere the valleys meet the mountains, Tata Tea Gold is bornl \nAn exquisite tea that combines the rich tullness of the \nvalley-grown teas with the irresistible aroma of \nleaves \ntrom high grown regions \nit H leave you longing for morel \nfine, \nlong \nGold \nThree Different Teas, \nDeliciously Distinct \nH \nGold \nGold \nGold \nGold \nGold \nt \nGold \nThree Different Teas, \nDeliciously Distinct \ngold \nGold \nggid \nGold \nGold \nVta \nThree Different Teas, \nDeliciously Distinct \nTGatn \nOld \nGold \nYjod \nOfd \nGold \nTata TEA \ngold \nThree Different Teas, \nDeliciously Distinct \ngold \nR \nGold \ngold \ngold \n1 \nGold \nLhi \nGold \nGold \nGold \nGold \nGold \ngold \nGold",
     "fields": {
-      "origin": "al products",
-      "quantity": "8 G"
+      "quantity": "5 l"
     },
     "compliance": {
       "mrp": false,
       "quantity": true,
       "manufacturer": false,
-      "origin": true,
+      "origin": false,
       "support": false,
       "dates": false,
       "batch": false,
@@ -106,7 +102,8 @@
     },
     "missing": [
       "Maximum Retail Price (₹)",
-      "Manufacturer/Packer Name"
+      "Manufacturer/Packer Name",
+      "Country of Origin"
     ],
     "warnings": [
       "Optional: Consumer Care Contact",
@@ -116,10 +113,10 @@
       "Optional: Product Barcode"
     ],
     "summary": {
-      "total_fields_found": 2,
-      "required_present": 2,
+      "total_fields_found": 1,
+      "required_present": 1,
       "required_total": 4,
-      "compliance_score": "2/4"
+      "compliance_score": "1/4"
     }
   },
   "compliance": {
@@ -148,8 +145,8 @@
     "compliance_score": "4/4"
   },
   "manufacturer_analytics": {
-    "manufacturer_name": "Abyss Pharma Pvt. Ltd., Abyss Pharma Pvt. Ltd. B121, Second Floor, Mayapuri Phase 1, New Delhi, 110064, India",
-    "total_products": 1,
+    "manufacturer_name": "Tata Tea, Tewari Warehousing Co. Pvt. Ltd., 20, Coal Berth Road, Kolkata-700088",
+    "total_products": 2,
     "average_compliance_score": 1.0,
     "compliance_level": "Excellent"
   },

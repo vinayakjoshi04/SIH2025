@@ -1,97 +1,83 @@
 {
-  "url": "https://www.amazon.in/Premium-Gently-Rolled-Aromatic-Leaves/dp/B00XW5HH6U/ref=sr_1_5_f3_0g_fs_mod_primary_alm?_encoding=UTF8&content-id=amzn1.sym.f11889ca-3189-4bb9-85fb-094bb950b114&dib=eyJ2IjoiMSJ9.8CzOoW07_pPPqLWBBBJy8iE_K9q4hdIAriAd-A8x_0F7I3bHFVdOUOc8giCYRM1Cx1lUg5d4HTUytkdw00p4Y7Vd23wvvEN30iEWJmhzGAL1lKRd-WhYlGuull77Sfj3UNDDej1FjGbgwlU4PhLlxRdrRwqo9bzv6Mgp33WxBJOYrXK3P_sK1w4I5HexYp8oQ7i4lO0WdkWg_PKH8VA6iVezDu6SZvDkKs0jK5mQLE3Y3NiBsSLKDWwTqqQzV7MQFMJ4fc9KV2uj6tVqUMcGGRIfNmTC2X-hQ3L6ssosxyY.oE9OWbQtPk-KnbsU8oH6rE5FxZKBMqk0UBB8lx2UJlo&dib_tag=se&pd_rd_r=9dc047d6-8596-4072-901b-dc04f1fdf2e7&pd_rd_w=dWHzT&pd_rd_wg=XYBY2&qid=1758857269&refinements=p_36%3A14000-40000&rnid=2454178031&s=grocery&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=1-5&th=1",
-  "title": "Tata Tea Gold 500 gram, Premium Assam teas with Gently Rolled Aromatic Long Leaves, Rich & Aromatic Chai, Black Tea",
-  "mrp": "₹242.00",
-  "quantity": "5 l",
-  "manufacturer": "Tata Tea, Tewari Warehousing Co. Pvt. Ltd., 20, Coal Berth Road, Kolkata-700088",
+  "url": "https://www.amazon.in/Chhedas-Banana-Chips-Yellow-Wafers/dp/B08WJ12R6N/ref=sr_1_7_mod_primary_new?crid=321WNYHZNL9LP&dib=eyJ2IjoiMSJ9.Du1n3vU9qvWNkGSCZo7CFKYVU4J7zWZkjC72qDlb6DgtacTcnIJP7gBXXcYT6NAsaPaC3xWaq7puSV1lE7WbkxC5u_XYqRlM71Kj_UyaMhYBuT9lUQ_CitjqjWj6Inbt5phamEQuTA7Q_GkTHEjy38mFbTdY54JKLUpEKcoQVn0K5tsUWnbKw9TTTpKNs6fV-JZ16x6EocaXLW47q5x4kKY5TMXSZb-TLNkC-PCpQHzKAp2Mlf9cWw4CiTzOeHAygAFFh80I-iya_klEA-763yJuZKSHa7kkCORjlRSSpYY.aR_xYhD7-QUPGhqFj4Za6SecZgi7pNN_kWRph1i7H54&dib_tag=se&keywords=snacks&qid=1758864436&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=sn%2Caps%2C328&sr=8-7&th=1",
+  "title": "Chheda's - Yellow Banana Chips - Banana Wafers - Crispy Chips - Tasty Yummy Snacks - 350 Gm Pack of 1",
+  "mrp": "₹200.00",
+  "quantity": "350.0 gram",
+  "manufacturer": "CHHEDA'S, Chheda House, Plot No.7, B.M.C Ind Est, Near Vasant Motors, M.G.Cross RdNo.1, Sai Nagar, Kandivali(W), Mumbai 400067",
   "origin": "‎India",
   "images": [
-    "temp\\temp2\\img1_41bWvNMcx_L_SL1500.jpg",
-    "temp\\temp2\\img2_41f_6JgX4vL_SL1500.jpg",
-    "temp\\temp2\\img3_41q77XzfOdL_SL1500.jpg",
-    "temp\\temp2\\img4_51L0SUzF0RL_SL1500.jpg",
-    "temp\\temp2\\img5_41nb74yiigL_SL1500.jpg",
-    "temp\\temp2\\img6_41cCITi0-lL_SL1500.jpg"
+    "temp\\temp2\\img1_51mOTdR_uLL_SL1500.jpg",
+    "temp\\temp2\\img2_41qx7BcfluL_SL1500.jpg",
+    "temp\\temp2\\img3_519bSfPnsTL_SL1500.jpg",
+    "temp\\temp2\\img4_613fxqwz2-L_SL1500.jpg"
   ],
-  "Brand": "Tata",
-  "Item Form": "Loose Leaves",
-  "Flavour": "Unflavoured",
-  "Tea Variety": "Black",
-  "Net Quantity": "500.0 Grams",
-  "Diet Type": "Vegetarian",
+  "Brand": "CHHEDA'S",
+  "Flavour": "Yellow Banana",
+  "Net Quantity": "350.0 gram",
   "Number of Items": "1",
-  "Package Information": "Bag",
-  "Caffeine Content": "Medium Caffeine",
-  "Item Weight": "500 Grams",
+  "Diet Type": "Vegetarian",
+  "Item Form": "Chips",
+  "Item Weight": "350 Grams",
+  "Size": "350 g (Pack of 1)",
+  "Item dimensions L x W x H": "9.5 x 12 x 15 Centimeters",
+  "Package Weight": "0.44 Kilograms",
   "product_details": {
     "Specialty": "Vegetarian",
-    "Weight": "500 Grams",
+    "Weight": "350 Grams",
     "Ingredient Type": "Vegetarian",
-    "Brand": "Tata",
-    "Region Produced In": "Asia",
-    "Storage Instructions": "Keep Dry",
-    "Form": "Loose Leaves",
-    "Caffeine Content": "Medium Caffeine",
-    "Package Information": "Bag",
-    "Manufacturer": "Tata Tea, Tewari Warehousing Co. Pvt. Ltd., 20, Coal Berth Road, Kolkata-700088",
-    "Allergen Information": "Allergen-Free",
-    "Item model number": "Invictus_EAN_IJABAFCAAAJAG",
-    "Net Quantity": "500.0 gram",
-    "Product Dimensions": "7 x 11.5 x 25 cm; 500 g",
-    "Ingredients": "Tea",
+    "Brand": "CHHEDA'S",
+    "Form": "Chips",
+    "Serving Recommendation": "60g",
+    "Package Information": "Pouch",
+    "Manufacturer": "CHHEDA'S, Chheda House, Plot No.7, B.M.C Ind Est, Near Vasant Motors, M.G.Cross RdNo.1, Sai Nagar, Kandivali(W), Mumbai 400067",
+    "Net Quantity": "350.0 gram",
+    "Product Dimensions": "9.5 x 12 x 15 cm; 350 g",
+    "Ingredients": "Banana, Salt",
     "Country of Origin": "India",
-    "ASIN": "B00XW5HH6U",
-    "Customer Reviews": "4.5 \n4.5 out of 5 stars\n    4,326 ratings\n4.5 out of 5 stars",
-    "Best Sellers Rank": "#59 in Grocery & Gourmet Foods (See Top 100 in Grocery & Gourmet Foods)\n#4 in Tea",
-    "Date First Available": "19 May 2015",
-    "Packer": "Tewari Warehousing Co. Pvt. Ltd., 20, Coal Berth Road, Kolkata-700088",
-    "Item Weight": "500 g",
-    "Item Dimensions LxWxH": "7 x 11.5 x 25 Centimeters",
-    "Generic Name": "Tea"
+    "ASIN": "B08WJ12R6N",
+    "Customer Reviews": "4.2 \n4.2 out of 5 stars\n    3,128 ratings\n4.2 out of 5 stars",
+    "Best Sellers Rank": "#637 in Grocery & Gourmet Foods (See Top 100 in Grocery & Gourmet Foods)\n#2 in Fried Banana Chips",
+    "Date First Available": "4 March 2021",
+    "Packer": "Chheda House, Plot No.7, B.M.C Ind Est, Near Vasant Motors, M.G.Cross RdNo.1, Sai Nagar, Kandivali(W), Mumbai 400067",
+    "Item Weight": "350 g",
+    "Item Dimensions LxWxH": "9.5 x 12 x 15 Centimeters",
+    "Generic Name": "Chips"
   },
   "vision": {
-    "selected": [],
+    "selected": [
+      "temp\\temp2\\img3_519bSfPnsTL_SL1500.jpg"
+    ],
     "scoring": {
-      "temp\\temp2\\img1_41bWvNMcx_L_SL1500.jpg": {
+      "temp\\temp2\\img1_51mOTdR_uLL_SL1500.jpg": {
         "score": 0,
         "matched": [],
-        "text_preview": "Tata TEA Gold Rick Texe Entausble Atana (I5%long) leaves RoLleo"
+        "text_preview": "Ckkedag Yellow Banana Chips Fresh banana finely sliced Fried seasoned with salt Ata Knlertuu Rutuu-ut ATd #ozu Mnoa"
       },
-      "temp\\temp2\\img2_41f_6JgX4vL_SL1500.jpg": {
+      "temp\\temp2\\img2_41qx7BcfluL_SL1500.jpg": {
         "score": 0,
         "matched": [],
-        "text_preview": "IWATEA Gold Rich Taste idta gold Tvesistihle Rm7r Litwut Aic Aoma Deengnalut Im_UNSd @uuamoric u"
+        "text_preview": "elol Ckkeda 3 Banana Chips juirlon ERLLn Tee -M3II Ken lo moans 0* e"
       },
-      "temp\\temp2\\img3_41q77XzfOdL_SL1500.jpg": {
-        "score": 0,
-        "matched": [],
-        "text_preview": "KOWATA Gold Blended with (1%long leaves RoLLe? M unbe , Lnen-T4trreintt   irutulte nlanenlut Iiudbnericin 1"
+      "temp\\temp2\\img3_519bSfPnsTL_SL1500.jpg": {
+        "score": 1,
+        "matched": [
+          "Ingredients"
+        ],
+        "text_preview": "INGREDIENTS: Banana 79 % , Palm Oil 20%6, Salt 1% Chkedas Nutrition Facts Sen 19 8ize : E20 Survina Per Conainur Amount Per Serving Yellow Caloics Culories Iram at Banana Chips ~Daik Valucs Fresh bana..."
       },
-      "temp\\temp2\\img4_51L0SUzF0RL_SL1500.jpg": {
+      "temp\\temp2\\img4_613fxqwz2-L_SL1500.jpg": {
         "score": 0,
         "matched": [],
-        "text_preview": "IWNTEA Gold Blend of CTC & Ixongteaves Where the valleys meet the mountains, Tata Tea Gold is bomn! An exquisite tea that combines the rich fullness of the valley-grown teas with the irresistible arom..."
-      },
-      "temp\\temp2\\img5_41nb74yiigL_SL1500.jpg": {
-        "score": 0,
-        "matched": [],
-        "text_preview": "IAWATA Gold Three Different Teas, Deliciously Distinct H Gold Gold Gold Gold Gold t 771 m untermnt#deare"
-      },
-      "temp\\temp2\\img6_41cCITi0-lL_SL1500.jpg": {
-        "score": 0,
-        "matched": [],
-        "text_preview": "1 Mh 1 Gold Lhi gmiatnunot Icountnunod Miy7a5 mm Gold"
+        "text_preview": "Ckkedag nuxs fer^ EX HITAD \" Yellow Chips Unh5ai Ckkeda8  Banana Rohatana Rnely Jrtoreeonto"
       }
     }
   },
   "ocr": {
-    "extracted_text": "TEA \nGold \nRick Texe \nleaves \nTATA TEA \ngold \n(1f%long \nleaves \nRolL \nTATA TEA \nGold \nleaves \nTATA TEA \ngold \nRich \n(I%long  \nLeaves \nROLLEO \nGold \nRich Taste \ngold \nTvesistihle \nAoma \nGold \nRich Taste \nTATA TEA \ngold \nTvesistihle \nAoma \nGold \nRich Taste \nGold , \nTvesistihle \n25 \nAoma \nTata TEA \nGgold \nRich Taste \nTaTA TEA \ngold \nTvesistihle \nAeoma \nGold \nBlended with \n(1%long \nleaves \nRoLLe? \n1 \nBlended with \n(I5%long  \nleaves \nGold \n1 \nROLLED \nBlended with \nLeaves \nRoller \nTata TEA \ngold \nBlended with \n5 \nI%long , \nLeaves \n1 \nROLLEO \nGold \nBlend of \nCTC & \nIxongteaves \nWhere the valleys meet the mountains, Tata Tea Gold is bomn! \nAn exquisite tea that combines the rich fullness of the \nvalley-grown teas with the irresistible aroma of long leaves \nfrom high grown regions \nit ]l leave you longing for morel \nfine , \nGgold \nBlend of \nCTC & \nWhere the valleys meet the mountains, Tata Tea Gold is bomnl \nAn exquisite tea that combines the rich tullness of the \nvalley-grown teas with the irresistible aroma of long leaves \nfrom high grown regions \nit ] leave you longing for morel \nfine, \nGold \nBlend of ; \ncTc \nLStongleaues \nWhere the valleys Ieet the mountains, Tata Tea Gold is bomi \nAn \nexquisite tea that combineg the rich Jullnegs of tbe \nvalley = \ntaas with tbe iresistible aroma of long leaves \ntrom high gIOwR Iegions \n#J laave you longing for morel \nfre, \ngrOwn \nTata TEA \nGold \nBlend of \nAssam CTC & \nI5longleaves \nWhere the valleys meet the mountains, Tata Tea Gold is bornl \nAn exquisite tea that combines the rich tullness of the \nvalley-grown teas with the irresistible aroma of \nleaves \ntrom high grown regions \nit H leave you longing for morel \nfine, \nlong \nGold \nThree Different Teas, \nDeliciously Distinct \nH \nGold \nGold \nGold \nGold \nGold \nt \nGold \nThree Different Teas, \nDeliciously Distinct \ngold \nGold \nggid \nGold \nGold \nVta \nThree Different Teas, \nDeliciously Distinct \nTGatn \nOld \nGold \nYjod \nOfd \nGold \nTata TEA \ngold \nThree Different Teas, \nDeliciously Distinct \ngold \nR \nGold \ngold \ngold \n1 \nGold \nLhi \nGold \nGold \nGold \nGold \nGold \ngold \nGold",
-    "fields": {
-      "quantity": "5 l"
-    },
+    "extracted_text": "INGREDIENTS: \nBanana 79 % , Palm Oil 20%6, Salt 1% \nChkedas \nNutrition \nFacts \nAmount Per Serving \nYellow \nCaloics \nBanana Chips \nFresh banana Fincly \nseasoned \nTrans \nCanlcsterol \nSodium \nTotal Carbchydrzlc \nDirtarv Ibrr \nProlcin \nVicamin L \n2500 \nSalurated Fut \nLosa hBr \nTutal Carbukdiale \nVisit WS Jt \nINGREDIENTS: \nBanana 79 % , Palmn Qil z0%s , Salt /% \nChkedas \nNutrition \nFacts \nAMouni \nYellow \nCalorics \nCuloribs Irom Iat \nBanana Chips \nFresh banana Flnely \nTrans \nCnolcsterol \nSodiune \nTotul Carbchydizic \nProlcin \nVicamin \n2500 \nSalurated Fut \nTutal Carbukzdiall \nkl \nINGREOFENTS: \nBanana 79 %, Paim Dil 2025- Selt 1% \nNutrition \nFacts \n3en7iq 2iz8 \nServino Rar Comainer : \nYellow  \nAnount Per Seruing \nCalories \nBanana Chips \nTrans \nProlcina \nTitamf \nCaluriLz \nSabrted \nLaaa IrBn \nCholcterte \nLoss Ihar \n240 M4 \n24004 \nQiatarnbbr \nINGREOIENTS: \nBanana 79 %, Palmn Oil 202, Salt \nCkkedas \nNutrition \nFacts \nSeniy >ize \nServing Pe Conlainer \nYellow \nAmount Per Serving \nCalgries \n34 \nCalories Irom Jal 420 \nBanana \nTotal Fal \n189 \nFresh oanana flnely \nsliced fried & seasoned \nwimsalt \nTrans \nCholastcrol \nTotal Carbohydoaic \nMibrr \nPcolcin \nIcild \n2000 \n2500 \nTotal Fat \nLess Ihan \nSalurated fat \nLoss Ihan \n259 \nChulc:Irol \nLess Than \nam \nSodium \nLozs Thon \nTutal Carbukdiale \nGUT No 115 \nAcbhai; Manor \nWeda Agad \nDisi- Pslghas \nChips \nSodium \nDittan",
+    "fields": {},
     "compliance": {
       "mrp": false,
-      "quantity": true,
+      "quantity": false,
       "manufacturer": false,
       "origin": false,
       "support": false,
@@ -102,6 +88,7 @@
     },
     "missing": [
       "Maximum Retail Price (₹)",
+      "Net Quantity/Weight",
       "Manufacturer/Packer Name",
       "Country of Origin"
     ],
@@ -113,10 +100,10 @@
       "Optional: Product Barcode"
     ],
     "summary": {
-      "total_fields_found": 1,
-      "required_present": 1,
+      "total_fields_found": 0,
+      "required_present": 0,
       "required_total": 4,
-      "compliance_score": "1/4"
+      "compliance_score": "0/4"
     }
   },
   "compliance": {
@@ -145,8 +132,8 @@
     "compliance_score": "4/4"
   },
   "manufacturer_analytics": {
-    "manufacturer_name": "Tata Tea, Tewari Warehousing Co. Pvt. Ltd., 20, Coal Berth Road, Kolkata-700088",
-    "total_products": 2,
+    "manufacturer_name": "Chheda'S, Chheda House, Plot No.7, B.M.C Ind Est, Near Vasant Motors, M.G.Cross Rdno.1, Sai Nagar, Kandivali(W), Mumbai 400067",
+    "total_products": 5,
     "average_compliance_score": 1.0,
     "compliance_level": "Excellent"
   },
